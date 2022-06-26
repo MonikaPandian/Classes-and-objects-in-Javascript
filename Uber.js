@@ -1,3 +1,5 @@
+4. write a class to calculate uber price.
+
 class Uber
 {
   constructor(dist_travelled,luggage,persons)
