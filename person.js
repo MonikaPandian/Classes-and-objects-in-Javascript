@@ -1,3 +1,5 @@
+3. Write a “person” class to hold all the details.
+
 class Person
 {
        
